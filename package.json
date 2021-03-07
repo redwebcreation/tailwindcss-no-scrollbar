@@ -1,0 +1,27 @@
+{
+  "name": "@rwc/tailwindcss-no-scrollbar",
+  "version": "0.1.0",
+  "description": "Tailwind plugin to remove scrollbars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redwebcreation/tailwindcss-no-scrollbar.git"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.0.3"
+  },
+  "author": "Red Web Creation",
+  "bugs": {
+    "url": "https://github.com/redwebcreation/tailwindcss-no-scrollbar/issues"
+  },
+  "homepage": "https://github.com/redwebcreation/tailwindcss-no-scrollbar#readme",
+  "keywords": [
+    "CSS",
+    "Tailwind",
+    "Scrollbar"
+  ],
+  "license": "MIT"
+}

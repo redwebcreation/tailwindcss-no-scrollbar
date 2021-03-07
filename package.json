@@ -1,7 +1,7 @@
 {
   "name": "@rwc/tailwindcss-no-scrollbar",
   "version": "0.1.0",
-  "description": "Tailwind plugin to remove scrollbars",
+  "description": "Exposes a class that hides the browser's default scrollbar using various tricks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,5 @@
-# TailwindCSS for removing scrollbars
-This Tailwind plugin uses different tricks to hide the navigator's scrollbar.
+# TailwindCSS plugin for removing scrollbars
+This plugin exposes a class that hides the browser's default scrollbar using various tricks 
 
 ## Installation
 ```bash
@@ -14,11 +14,9 @@ yarn add -D @rwc/tailwindcss-no-scrollbar
 ````js
 // tailwind.config.js
 module.exports = {
-    ...
-    plugins;: [
+    plugins: [
         require('@rwc/tailwindcss-no-scrollbar')
-        ...
-    ];
+    ]
 }
 ````
 
@@ -26,6 +24,6 @@ Then, add `.scrollbar-none` on the overflowing element.
 
 ```html
 <div class="overflow-x-auto whitespace-nowrap w-24 scrollbar-none">
-    Some long text which will overflow for sure please is it enough? Surely. As you can see, it's scrollable but the scrollbar is hidden.
+    Some long text which will overflow for sure. Please is it enough? Surely.
 </div>
 ```

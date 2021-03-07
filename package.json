@@ -1,6 +1,6 @@
 {
   "name": "@rwc/tailwindcss-no-scrollbar",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Exposes a class that hides the browser's default scrollbar using various tricks",
   "main": "index.js",
   "scripts": {

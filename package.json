@@ -1,5 +1,5 @@
 {
-  "name": "@redwebcreation/tailwindcss-no-scrollbar",
+  "name": "tailwindcss-no-scrollbar",
   "version": "1.0.0",
   "description": "Exposes a class that hides the browser's default scrollbar using various tricks",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "devDependencies": {
     "tailwindcss": "^2.0.3"
   },
-  "author": "Red Web Creation",
+  "author": "Félix Dorn <github@felixdorn.fr>",
   "bugs": {
     "url": "https://github.com/redwebcreation/tailwindcss-no-scrollbar/issues"
   },

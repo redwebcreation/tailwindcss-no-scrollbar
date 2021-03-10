@@ -3,11 +3,11 @@ This plugin exposes a class that hides the browser's default scrollbar using var
 
 ## Installation
 ```bash
-npm install --save-dev @redwebcreation/tailwindcss-no-scrollbar
+npm install --save-dev tailwindcss-no-scrollbar
 ```
 or
 ```bash
-yarn add -D @redwebcreation/tailwindcss-no-scrollbar
+yarn add -D tailwindcss-no-scrollbar
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ yarn add -D @redwebcreation/tailwindcss-no-scrollbar
 // tailwind.config.js
 module.exports = {
     plugins: [
-        require('@redwebcreation/tailwindcss-no-scrollbar')
+        require('tailwindcss-no-scrollbar')
     ]
 }
 ````

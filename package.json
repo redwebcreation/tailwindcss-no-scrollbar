@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Exposes a class that hides the browser's default scrollbar using various tricks",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/redwebcreation/tailwindcss-no-scrollbar.git"

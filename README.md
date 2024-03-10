@@ -1,5 +1,7 @@
 # TailwindCSS plugin for removing scrollbars
-This plugin exposes a class that hides the browser's default scrollbar using various tricks 
+![Download Count (30k)](https://img.shields.io/npm/dt/tailwindcss-no-scrollbar)
+
+This plugin exposes a class that hides the browser's default scrollbar using various tricks.
 
 ## Installation
 ```bash

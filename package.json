@@ -19,7 +19,8 @@
   "keywords": [
     "CSS",
     "Tailwind",
-    "Scrollbar"
+    "Scrollbar",
+    "tailwind plugin"
   ],
   "license": "MIT"
 }

@@ -9,7 +9,7 @@
     "url": "git+https://github.com/redwebcreation/tailwindcss-no-scrollbar.git"
   },
   "devDependencies": {
-    "tailwindcss": "^3.0.2"
+    "tailwindcss": "^4.0.13"
   },
   "author": "Félix Dorn <github@felixdorn.fr>",
   "bugs": {
